@@ -1,0 +1,66 @@
+[
+    {
+        "name" : "Eric",
+        "age" : 19,
+        "sex" : "Male",
+        "school" : "UofT",
+        "home" : "Dover",
+        "isWhite" : true
+    },
+    {
+        "name" : "Nicole",
+        "age" : 18,
+        "sex" : "Female",
+        "school" : "UofT",
+        "home" : "Langley",
+        "isWhite" : true
+    },
+    {
+        "name" : "Adam",
+        "age" : 18,
+        "sex" : "Male",
+        "school" : "UofT",
+        "home" : "Calgary",
+        "isWhite" : true
+    },
+    {
+        "name" : "Priya",
+        "age" : 19,
+        "sex" : "Female",
+        "school" : "UofT",
+        "home" : "Calgary",
+        "isWhite" : false
+    },
+    {
+        "name" : "Gabby",
+        "age" : 19,
+        "sex" : "Female",
+        "school" : "UofT",
+        "home" : "Hamlton",
+        "isWhite" : true
+    },
+    {
+        "name" : "Gabby",
+        "age" : 16,
+        "sex" : "Female",
+        "school" : "Remmington",
+        "home" : "Toronto",
+        "isWhite" : false
+    },
+    {
+        "name" : "Eric",
+        "age" : 19,
+        "sex" : "Male",
+        "school" : "University of Hartford",
+        "home" : "Dover",
+        "isWhite" : true
+    },
+    {
+        "name" : "Matt",
+        "age" : 17,
+        "sex" : "Male",
+        "school" : "Dover Highschool",
+        "home" : "Dover",
+        "isWhite" : true
+    }
+]
